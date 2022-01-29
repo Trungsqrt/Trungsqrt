@@ -6,7 +6,7 @@ Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 
 これは私の個人的なプロジェクトを蓄積する場所です！
 
-This is where I storage my personal projects!
+This is where I store my personal projects!
 
 
 W3-band: https://trungsqrt.github.io/deploy-W3-band/
