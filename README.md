@@ -9,6 +9,6 @@ Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 This is where I store my personal projects!
 
 
-W3-band: https://trungsqrt.github.io/deploy-W3-band/
+W3-band practice: https://trungsqrt.github.io/deploy-W3-band/
 
-Shopee-clone: https://trungsqrt.github.io/deploy-Web-shop/
+Shopee-clone practice: https://trungsqrt.github.io/deploy-Web-shop/
