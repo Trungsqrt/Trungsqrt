@@ -14,3 +14,10 @@ W3-band practice: https://trungsqrt.github.io/deploy-W3-band/
 Shopee-clone practice: https://trungsqrt.github.io/deploy-Web-shop/
 
 Basic-music-player: https://trungsqrt.github.io/Deploy-music-player/
+
+Funny project:
+
+Potion animation: https://trungsqrt.github.io/Potion-animate/
+
+Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
+
