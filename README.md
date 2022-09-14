@@ -15,7 +15,7 @@ This is where I store my personal projects!
 
 - Basic-music-player: https://trungsqrt.github.io/Deploy-music-player/
 
-- Pokedex: https://pokedex-randtadeewherbtaxmrpoqkc.netlify.app/
+- Pokedex: https://trungsqrt-pokedex.netlify.app/
 
 Funny project:
 
