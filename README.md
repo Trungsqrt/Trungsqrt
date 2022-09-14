@@ -15,11 +15,12 @@ This is where I store my personal projects!
 
 - Basic-music-player: https://trungsqrt.github.io/Deploy-music-player/
 
+- Pokedex: https://pokedex-randtadeewherbtaxmrpoqkc.netlify.app/
+
 Funny project:
 
 - Potion animation: https://trungsqrt.github.io/Potion-animate/
 
 - Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
 
-- Pokedex: https://pokedex-randtadeewherbtaxmrpoqkc.netlify.app/
 
