@@ -21,3 +21,5 @@ Funny project:
 
 - Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
 
+- Pokedex: https://pokedex-randtadeewherbtaxmrpoqkc.netlify.app/
+
