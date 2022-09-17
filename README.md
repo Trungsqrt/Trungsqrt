@@ -23,4 +23,4 @@ Funny project:
 
 - Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
 
-
+[![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt)](https://github.com/trungsqrt/github-readme-stats)
