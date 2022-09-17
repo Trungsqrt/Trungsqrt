@@ -26,6 +26,4 @@ Funny project:
 GitHub Stats Card
 
 
-![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungsqrt&langs_count=8)](https://github.com/trungsqrt/github-readme-stats)
+![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungsqrt&layout=compact)](https://github.com/trungsqrt/github-readme-stats)
