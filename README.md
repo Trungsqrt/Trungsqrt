@@ -6,7 +6,7 @@ Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 
 これは私の個人的なプロジェクトを蓄積する場所です！
 
-This is where I store my personal projects!
+# This is where I store my personal projects!
 
 
 - W3-band practice: https://trungsqrt.github.io/deploy-W3-band/
@@ -17,13 +17,13 @@ This is where I store my personal projects!
 
 - Pokedex: https://trungsqrt-pokedex.netlify.app/
 
-Funny project:
+# Funny project:
 
 - Potion animation: https://trungsqrt.github.io/Potion-animate/
 
 - Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
 
-GitHub Stats Card
+# GitHub Stats Card
 
 
 ![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungsqrt&layout=compact)](https://github.com/trungsqrt/github-readme-stats)
