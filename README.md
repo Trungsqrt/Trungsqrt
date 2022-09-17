@@ -2,10 +2,6 @@
 # Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 こにちは！(ﾟ∀ﾟ )  Trung です！　(～￣▽￣)～
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-
 # This is where I store my personal projects!
 これは私の個人的なプロジェクトを蓄積する場所です！
 
