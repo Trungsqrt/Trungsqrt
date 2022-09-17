@@ -1,8 +1,6 @@
+
+# Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 こにちは！(ﾟ∀ﾟ )  Trung です！　(～￣▽￣)～
-
-
-Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
-
 
 
 # This is where I store my personal projects!
@@ -23,6 +21,4 @@ Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 - Toast message: https://trungsqrt.github.io/Deploy-Toast-message/
 
 # GitHub Stats Card
-
-
 ![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungsqrt&layout=compact)](https://github.com/trungsqrt/github-readme-stats)
