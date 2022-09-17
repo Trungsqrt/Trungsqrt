@@ -25,6 +25,5 @@ Funny project:
 
 GitHub Stats Card
 
-[![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt)](https://github.com/trungsqrt/github-readme-stats)
 
-![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true)
+![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy)
