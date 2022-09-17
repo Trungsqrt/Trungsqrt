@@ -4,7 +4,7 @@
 Hello! (ﾟ∀ﾟ )   I am Trung! (～￣▽￣)～
 
 
-これは私の個人的なプロジェクトを蓄積する場所です！
+# これは私の個人的なプロジェクトを蓄積する場所です！
 
 # This is where I store my personal projects!
 
