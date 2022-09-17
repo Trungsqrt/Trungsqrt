@@ -21,5 +21,5 @@
 
 # GitHub Stats Card
 ![trungsqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungsqrt&show_icons=true&theme=buefy)
-# Most languages used Stats Card
+# Most used languages Stats Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungsqrt&layout=compact)](https://github.com/trungsqrt/github-readme-stats)
