@@ -13,6 +13,8 @@
 
 - Pokedex: https://trungsqrt-pokedex.netlify.app/
 
+- BestEats: https://trungsqrt-besteats.netlify.app/
+
 # Funny project:
 
 - Potion animation: https://trungsqrt.github.io/Potion-animate/
