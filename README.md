@@ -5,17 +5,22 @@
 # This is where I store my personal projects!
 これは私の個人的なプロジェクトを蓄積する場所です！
 
+- The player: https://mplayer-sigma.vercel.app/
+
+- NetFarm: https://github.com/Trungsqrt/netfarmui
+
+- Pokedex: https://trungsqrt-pokedex.netlify.app/
+
+- Basic-music-player: https://trungsqrt.github.io/Deploy-music-player/
+
+- BestEats: https://trungsqrt-besteats.netlify.app/
+
 - W3-band practice: https://trungsqrt.github.io/deploy-W3-band/
 
 - Shopee-clone practice: https://trungsqrt.github.io/deploy-Web-shop/
 
-- Basic-music-player: https://trungsqrt.github.io/Deploy-music-player/
 
-- Pokedex: https://trungsqrt-pokedex.netlify.app/
 
-- BestEats: https://trungsqrt-besteats.netlify.app/
-
-- NetFarm: https://github.com/Trungsqrt/netfarmui
 # Funny project:
 
 - Potion animation: https://trungsqrt.github.io/Potion-animate/
