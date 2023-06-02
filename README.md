@@ -5,9 +5,11 @@
 # This is where I store my personal projects!
 これは私の個人的なプロジェクトを蓄積する場所です！
 
-- The player: https://mplayer-sigma.vercel.app/
+- Tour Trove: https://github.com/Trungsqrt/TourTrove
 
 - NetFarm: https://github.com/Trungsqrt/netfarmui
+
+- The player: https://mplayer-sigma.vercel.app/
 
 - Pokedex: https://trungsqrt-pokedex.netlify.app/
 
