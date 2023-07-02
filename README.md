@@ -22,6 +22,7 @@
 
 - The player:
   Source: https://github.com/Trungsqrt/player/tree/main/player
+  
   Deploy: https://mplayer-sigma.vercel.app/
   - Authenticate with Spotify authentication.
   - Practice to use useRef in ReactJs.
@@ -32,6 +33,7 @@
 
 - Pokedex:
   Source: https://github.com/Trungsqrt/reactpokedex
+  
   Deploy: https://trungsqrt-pokedex.netlify.app/
   - Practice with ReactJS and TypeScript.
   - Practice fetch API with axios.
@@ -44,6 +46,7 @@
 
 - BestEats:
   Source: https://github.com/Trungsqrt/ttreact
+  
   Deploy: https://trungsqrt-besteats.netlify.app/
   - Practice pure ReactJS
   - CSS and Responsive with tailwind css
