@@ -6,6 +6,7 @@
 これは私の個人的なプロジェクトを蓄積する場所です！
 
 - Tour Trove:
+
   Source: https://github.com/Trungsqrt/TourTrove
   - Back-end API with Node.js and Express.
   - Interacting with non-SQL MongoDB database.
@@ -14,6 +15,7 @@
   - Data modeling and advanced Mongoose.
 
 - NetFarm:
+
   Source: https://github.com/Trungsqrt/netfarmui
   - UI Design and programming with ReactJS.
   - Render data to UI with API from Backend member.
@@ -21,6 +23,7 @@
   - Participate in discussions and give solutions to solve the project's problems.
 
 - The player:
+
   Source: https://github.com/Trungsqrt/player/tree/main/player
   
   Deploy: https://mplayer-sigma.vercel.app/
@@ -32,6 +35,7 @@
 
 
 - Pokedex:
+
   Source: https://github.com/Trungsqrt/reactpokedex
   
   Deploy: https://trungsqrt-pokedex.netlify.app/
@@ -40,11 +44,13 @@
   - Mobile Responsive.
 
 - Basic-music-player:
+
   Source: https://trungsqrt.github.io/Deploy-music-player/
   - Practice with HTML DOM, DOM events.
   - Implement some basic algorithms (shuffle, seek).
 
 - BestEats:
+
   Source: https://github.com/Trungsqrt/ttreact
   
   Deploy: https://trungsqrt-besteats.netlify.app/
@@ -52,6 +58,7 @@
   - CSS and Responsive with tailwind css
     
 - Shopee-clone practice:
+
   Source: https://trungsqrt.github.io/deploy-Web-shop/
   - Do split layout 12-column grid.
   - Use flexbox to align items on UI.
@@ -59,6 +66,7 @@
   - Mobile Responsive.
 
 - W3-band practice:
+
   Source: https://trungsqrt.github.io/deploy-W3-band/
   - Get started with basic website programming by creating a simple homepage.
 
