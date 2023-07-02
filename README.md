@@ -13,7 +13,6 @@
   - Authentication, Authorization, and Security.
   - Data modeling and advanced Mongoose.
 
-
 - NetFarm:
   Source: https://github.com/Trungsqrt/netfarmui
   - UI Design and programming with ReactJS.
@@ -33,7 +32,10 @@
 
 - Pokedex:
   Source: https://github.com/Trungsqrt/reactpokedex
-- Deploy: https://trungsqrt-pokedex.netlify.app/
+  Deploy: https://trungsqrt-pokedex.netlify.app/
+  - Practice with ReactJS and TypeScript.
+  - Practice fetch API with axios.
+  - Mobile Responsive.
 
 - Basic-music-player:
   Source: https://trungsqrt.github.io/Deploy-music-player/
